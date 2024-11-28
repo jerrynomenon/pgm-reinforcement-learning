@@ -2,7 +2,7 @@ import numpy as np
 from baseline.VehicleEnv import VehicleRoutingEnv
 from baseline.Visualizer import VehicleRoutingVisualizer
 from baseline.DataTracking import ExperimentTracker
-from baseline.RLImplementatoin import MaxEntropyRL
+from baseline.RLImplementation import MaxEntropyRL
 
 def train_with_probabilistic_inference(episodes: int = 1000):
     """Training with Probabilistic Inference Framework and Comprehensive Tracking"""
