@@ -6,4 +6,6 @@ Reference Paper: https://arxiv.org/pdf/1805.00909
 
 Poster for presentation: https://docs.google.com/presentation/d/1vz6ezyQe7i3uQnRVBxMbQEV5Qflw524AshWv0NG8AEY/edit?usp=sharing
 
+Code in Jupyter Notebook: https://github.com/jerrynomenon/pgm-reinforcement-learning/blob/main/RL_on_Solomon.ipynb
+
 Final Report: https://github.com/jerrynomenon/pgm-reinforcement-learning/blob/main/ift6269_Report_Team14.pdf
